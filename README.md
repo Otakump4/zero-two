@@ -2,7 +2,7 @@
 
 <h1 align="center">
 <p>
-<img src= "https://telegra.ph/file/314f7d5d2c494db3a7b82.jpg" alt="SAKURA-BOT V6.9.5✓" width="720">
+<img src= "https://telegra.ph/file/21a5ffd78e508949af736.jpg" alt="INATSUKI✓" width="720">
 </p>
 
 <p align="center">
@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-<img title="Autor" src="https://img.shields.io/badge/Autor-@M.Scheyot/@Rafael-orange.svg?style=for-the-badge&logo=github"></a>
-<img title="Versão" src="https://img.shields.io/badge/Versão-6.9.5-orange.svg?style=for-the-badge&logo=github"></a>
+<img title="Autor" src="https://img.shields.io/badge/Autor-@lucas_mod_domina-orange.svg?style=for-the-badge&logo=github"></a>
+<img title="Versão" src="https://img.shields.io/badge/Versão-8.0.0-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 
 ## Instalação via Termux  <img src="https://user-images.githubusercontent.com/108157095/182052725-6568419a-6a9f-490a-85ea-90b94af694fe.png" height="25px">
