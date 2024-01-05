@@ -1,5 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF00FF&center=falso&vCenter=falso&lines=𝐈𝐍𝐀𝐓𝐒𝐔𝐊𝐈+𝐁𝐎𝐓;𝐁𝐎𝐓+𝐌𝐔𝐋𝐓𝐈+𝐃𝐄𝐕𝐈𝐂𝐄;1500+𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒+2024;𝐋𝐔𝐂𝐀𝐒 𝐌𝐎𝐃 𝐃𝐎𝐌𝐈𝐍𝐀">      
-
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF00FF&center=falso&vCenter=falso&lines=𝐈𝐍𝐀𝐓𝐒𝐔𝐊𝐈+𝐕𝟑;𝐂𝐎𝐌+𝐌𝐀𝐈𝐒+𝐃𝐄;𝟏500+𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒❗;𖧄 𝐋𝐔𝐂𝐀𝐒 𝐌𝐎𝐃 𝐃𝐎𝐌𝐈𝐍𝐀 𖧄">      
 <h1 align="center">
 <p>
 <img src= "https://telegra.ph/file/21a5ffd78e508949af736.jpg" alt="INATSUKI BOT" width="720">
@@ -89,4 +88,4 @@ sh qrcode.sh
 ```
 
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=00FFFF&center=falso&vCenter=falso&lines=𝖆+𝕽𝖊𝖆𝖑𝖊𝖟𝖆+𝕯𝖔𝖒𝖎𝖓𝖆^-^;@Otaku.mp4+┌⁠(⁠・⁠。⁠・⁠)⁠┘⁠♪;𝐋𝐔𝐂𝐀𝐒 𝐌𝐎𝐃 𝐃𝐎𝐌𝐈𝐍𝐀">      
+ <img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=00FFFF&center=falso&vCenter=falso&lines=𖧄 𝐋𝐔𝐂𝐀𝐒 𝐌𝐎𝐃 𝐃𝐎𝐌𝐈𝐍𝐀 𖧄">      
