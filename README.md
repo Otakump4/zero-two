@@ -70,8 +70,8 @@ termux-setup-storage
 cd /sdcard/yoshinobot
 ```
 **OPS:**
-```
 toda vez que aparecer [ y/n ] vc digita y e da enter
+```
 ```
 
 ## Iniciar o Bot  <img src="https://user-images.githubusercontent.com/108157095/182053901-78e4a217-51ba-42a3-8ec5-38ed978ad752.png" height="25px">
