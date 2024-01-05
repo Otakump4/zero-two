@@ -47,6 +47,6 @@ cd /sdcard/mashle-bot
 ```
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=00FA9A&center=falso&vCenter=falso&lines=𝖆+𝕽𝖊𝖆𝖑𝖊𝖟𝖆+𝕯𝖔𝖒𝖎𝖓𝖆^-^;@M.Scheyot+@Rafael+(⁠ノ⁠^⁠_⁠^⁠)⁠ノ;𝕸.𝕾𝖈𝖍𝖊𝖞𝖔𝖙-𝕯𝖔𝖒𝖎𝖓𝖆✰✰✰✰✰">     
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=00FA9A&center=falso&vCenter=falso&lines=𝖆+𝕽𝖊𝖆𝖑𝖊𝖟𝖆+𝕯𝖔𝖒𝖎𝖓𝖆^-^;@lucas_mod_domina+(⁠ノ⁠^⁠_⁠^⁠)⁠ノ;𝐋𝐔𝐂𝐀𝐒-𝐌𝐎𝐃-𝐃𝐎𝐌𝐈𝐍𝐀✰✰✰✰✰">     
 
 
