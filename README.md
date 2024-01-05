@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-<img title="Autor" src="https://img.shields.io/badge/Autor-@lucas_mod_domina/@Rafael-orange.svg?style=for-the-badge&logo=github"></a>
+<img title="Autor" src="https://img.shields.io/badge/Autor-@lucas_mod_domina/@Otaku.mp4-orange.svg?style=for-the-badge&logo=github"></a>
 <img title="Versão" src="https://img.shields.io/badge/Versão-3.0.0-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 
