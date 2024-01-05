@@ -15,36 +15,75 @@
 </p>
 
 ## Instalação via Termux  <img src="https://user-images.githubusercontent.com/108157095/182052725-6568419a-6a9f-490a-85ea-90b94af694fe.png" height="25px">
-**💮1° Comando✓**
+**1° Comando**
 ```
-pkg upgrade -y && pkg update -y && pkg install python -y && pkg install nodejs-lts -y && pkg install nodejs -y && pkg install git -y && pkg install ffmpeg -y && pkg install wget -y
+termux-change-repo
 ```
 ---------------------------
 
-**💮2° Comando✓**
+**2° Comando**
+```
+apt-get upgrade -y
+```
+**3° Comando**
+```
+apt-get update -y
+```
+**4° Comando**
+```
+pkg upgrade -y
+```
+**5° Comando**
+```
+pkg update -y 
+```
+**6° Comando**
+```
+pkg install nodejs -y  
+```
+**7° Comando**
+```
+pkg install nodejs-lts -y
+```
+**8° Comando**
+```
+pkg install ffmpeg -y 
+```
+**9° Comando**
+```
+pkg install wget -y 
+```
+**10° Comando**
+```
+pkg install tesseract -y
+```
+**11° Comando**
+```
+pkg install git -y
+```
+**12° Comando**
 ```
 termux-setup-storage
 ```
-**💮3° Comando✓**
+**13° Comando**
 ```
-cd /sdcard/
+cd /sdcard/yoshinobot
 ```
-**💮4° Comando✓**
+**OPS:**
+toda vez que aparecer [ y/n ] vc digita y e da enter
 ```
-git clone https://github.com/Scheyot2/sakura-botv6.9.5.git
 ```
-**💮5° Comando✓**
-```
-cd /sdcard/mashle-bot
-```
-
 ## 🦄•INICIAR A BOT•🦄 <img src="https://user-images.githubusercontent.com/108157095/182053901-78e4a217-51ba-42a3-8ec5-38ed978ad752.png" height="25px">
 ```
-       sh scheyot.sh
+       npm start
 ```
 ```
+      sh start.sh
 ```
+## Gerar um novo QR  <img src="https://user-images.githubusercontent.com/108157095/182053978-d1a08952-4625-4e3f-b469-c8ebe4f22ac8.png" height="25px">
 ```
+sh qrcode.sh
+
 ```
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=00FA9A&center=falso&vCenter=falso&lines=𝖆+𝕽𝖊𝖆𝖑𝖊𝖟𝖆+𝕯𝖔𝖒𝖎𝖓𝖆^-^;@lucas_mod_domina+(⁠ノ⁠^⁠_⁠^⁠)⁠ノ;𝐋𝐔𝐂𝐀𝐒-𝐌𝐎𝐃-𝐃𝐎𝐌𝐈𝐍𝐀✰✰✰✰✰">     
