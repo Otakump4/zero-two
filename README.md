@@ -78,9 +78,10 @@ toda vez que aparecer [ y/n ] vc digita y e da enter
 ```
 sh start.sh
 ```
+```
 npm start
 ```
-
+```
 ## Gerar um novo QR  <img src="https://user-images.githubusercontent.com/108157095/182053978-d1a08952-4625-4e3f-b469-c8ebe4f22ac8.png" height="25px">
 ```
 
@@ -89,4 +90,4 @@ sh qrcode.sh
 ```
 
 
-## <img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=00FFFF&center=falso&vCenter=falso&lines=𝖆+𝕽𝖊𝖆𝖑𝖊𝖟𝖆+𝕯𝖔𝖒𝖎𝖓𝖆^-^;@Otaku.mp4+┌⁠(⁠・⁠。⁠・⁠)⁠┘⁠♪;𝐋𝐔𝐂𝐀𝐒 𝐌𝐎𝐃 𝐃𝐎𝐌𝐈𝐍𝐀">      
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=00FFFF&center=falso&vCenter=falso&lines=𝖆+𝕽𝖊𝖆𝖑𝖊𝖟𝖆+𝕯𝖔𝖒𝖎𝖓𝖆^-^;@Otaku.mp4+┌⁠(⁠・⁠。⁠・⁠)⁠┘⁠♪;𝐋𝐔𝐂𝐀𝐒 𝐌𝐎𝐃 𝐃𝐎𝐌𝐈𝐍𝐀">      
