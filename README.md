@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=836FFF&center=falso&vCenter=falso&lines=𝐈𝐍𝐀𝐓𝐒𝐔𝐊𝐈-𝐁𝐎𝐓+𝐕8✓;𝐁𝐎𝐓+𝐌𝐔𝐋𝐓𝐈+𝐃𝐄𝐕𝐈𝐂𝐄;1000+𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒+2024;𝕸.𝕾𝖈𝖍𝖊𝖞𝖔𝖙-𝕯𝖔𝖒𝖎𝖓𝖆✰✰✰✰✰">      
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=836FFF&center=falso&vCenter=falso&lines=𝐈𝐍𝐀𝐓𝐒𝐔𝐊𝐈-𝐁𝐎𝐓+𝐕8✓;𝐁𝐎𝐓+𝐌𝐔𝐋𝐓𝐈+𝐃𝐄𝐕𝐈𝐂𝐄;1000+𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒+2024;𖧄 𝐋𝐔𝐂𝐀𝐒 𝐌𝐎𝐃-𝐃𝐎𝐌𝐈𝐍𝐀 𖧄✰✰✰✰✰">      
 
 <h1 align="center">
 <p>
