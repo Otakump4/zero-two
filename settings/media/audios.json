@@ -1,0 +1,9 @@
+{
+   "audio_menu": "https://raw.githubusercontent.com/myvitinho/sabrina-bot/master/database/audios/menucmd.mp3",
+   "bom_dia": "https://raw.githubusercontent.com/myvitinho/sabrina-bot/master/database/audios/bomdia.mp3",
+   "boa_tarde": "https://raw.githubusercontent.com/myvitinho/sabrina-bot/master/database/audios/boatarde.mp3",
+   "boa_noite": "https://raw.githubusercontent.com/myvitinho/sabrina-bot/master/database/audios/boanoite.mp3",
+   "corno": "https://raw.githubusercontent.com/myvitinho/sabrina-bot/master/database/audios/corno.mp3",
+   "qviado": "https://raw.githubusercontent.com/myvitinho/sabrina-bot/master/database/audios/qviado.mp3"
+}
+

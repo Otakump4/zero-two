@@ -1,0 +1,14 @@
+esse bot foi feito pelo lucas mod domina
+usando uma base do Vitinho,
+eu apaguei tudo e refiz o bot
+então deixe os creditos a mim caso vc for divulgar ou 
+postar, instale os comandos iniciais do termux pra usar o bot, caso contrario ira da erro,
+
+essa base sem nenhuma modificação é proibida
+pra venda, se não tiver feito nada na base
+apenas divulgue, não venda! 
+e caso modifique deixe os devidos creditos
+©Copyright_by lucas
+
+créditos ao Liedson, sistema rpg criado por ele.
+créditos ao Licht, sistema de registro e dentre demais outros comandos e selos criados por ele.

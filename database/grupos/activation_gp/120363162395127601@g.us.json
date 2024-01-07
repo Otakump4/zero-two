@@ -1,0 +1,80 @@
+[
+  {
+    "name": "࿐ஓீ͜ 𝑭𝑹𝙸𝑬𝑵𝕯𝑺 𝑶𝑭 𝑭𝑼𝑵𝑵𝒀✦ۣۜۜ☆ۣۜۜ͜͡  ",
+    "groupId": "120363162395127601@g.us",
+    "x9": false,
+    "antiimg": false,
+    "antivideo": false,
+    "antiaudio": false,
+    "antisticker": false,
+    "antidoc": true,
+    "antictt": true,
+    "antiloc": true,
+    "antilinkgp": true,
+    "antilinkhard": true,
+    "antifake": false,
+    "antiporn": false,
+    "Odelete": false,
+    "antispam": false,
+    "antinotas": true,
+    "anticatalogo": false,
+    "visuUnica": true,
+    "registrarFIGUS": false,
+    "soadm": false,
+    "listanegra": [
+      "554899547675@s.whatsapp.net",
+      "557191757304@s.whatsapp.net"
+    ],
+    "advertir": [],
+    "prefixos": [
+      "/"
+    ],
+    "advertir2": [],
+    "legenda_estrangeiro": "0",
+    "legenda_documento": "0",
+    "legenda_video": "0",
+    "legenda_imagem": "0",
+    "multiprefix": false,
+    "forca_ofc": [
+      {
+        "acertos": 0,
+        "erros": 0,
+        "palavra": [],
+        "escreveu": [],
+        "palavra_ofc": 0,
+        "dica": 0,
+        "tema": 0
+      }
+    ],
+    "ausentes": [],
+    "antipalavrao": {
+      "active": false,
+      "palavras": []
+    },
+    "limitec": {
+      "active": true,
+      "quantidade": null
+    },
+    "wellcome": [
+      {
+        "bemvindo1": false,
+        "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
+        "legendasaiu": "#numerodele# – Saiu do grupo: #nomedogp#"
+      },
+      {
+        "bemvindo2": true,
+        "legendabv": "─━━━━━━⊱❄️⊰━━━━━━─\n      ❄️ 𝑩𝒆𝒎-𝑽𝒊𝒏𝒅𝒐 ( 𝒂 ) ❄️\n─━━━━━━⊱❄️⊰━━━━━━─\n𝑺𝒆-𝑨𝒑𝒓𝒆𝒔𝒆𝒏𝒕𝒆: #numerodele#\n\n[📸] ➭ 𝑭𝒐𝒕𝒐:\n[✏️] ➭ 𝑵𝒐𝒎𝒆:\n[🔞] ➭ 𝑰𝒅𝒂𝒅𝒆:\n[🏙️] ➭ 𝑪𝒊𝒅𝒂𝒅𝒆:\n─━━━━━━⊱❄️⊰━━━━━━─\n⚠ 𝑳𝒆𝒊𝒂 𝒂𝒔 𝑹𝒆𝒈𝒓𝒂𝒔 𝑷𝒂𝒓𝒂 𝑬𝒗𝒊𝒕𝒂𝒓 𝒐 𝑩𝒂𝒏 ⚠\n─━━━━━━⊱❄️⊰━━━━━━─ \n✨ 𝑨𝒑𝒓𝒐𝒗𝒆𝒊𝒕𝒆 𝒐 𝑮𝒓𝒖𝒑𝒐 ✨",
+        "legendasaiu": "#numerodele# – Saiu do grupo: #nomedogp#"
+      }
+    ],
+    "simi1": false,
+    "simi2": false,
+    "autosticker": false,
+    "autoresposta": true,
+    "jogos": true,
+    "level": false,
+    "bangp": false,
+    "nsfw": false,
+    "aluguel": false
+  }
+]

@@ -1,0 +1,477 @@
+[
+    {
+        "msg": "olá",
+        "messages": [
+            "tudo bem?"
+        ]
+    },
+    {
+        "msg": "oi",
+        "messages": [
+            "kql"
+        ]
+    },
+    {
+        "msg": "que",
+        "messages": []
+    },
+    {
+        "msg": "oii",
+        "messages": []
+    },
+    {
+        "msg": "oiii",
+        "messages": []
+    },
+    {
+        "msg": "oiiii",
+        "messages": []
+    },
+    {
+        "msg": "#antipv",
+        "messages": [
+            "o anti privado foi ativado com sucesso. caso alguém envie mensagem para o bot, será bloqueado!",
+            "o anti privado foi desativado com sucesso.",
+            "o anti privado foi ativado com sucesso. caso alguém envie mensagem para o bot, será bloqueado!",
+            "o anti privado foi desativado com sucesso."
+        ]
+    },
+    {
+        "msg": "#",
+        "messages": []
+    },
+    {
+        "msg": "#prefixos",
+        "messages": [
+            "lista de prefixos para uso do bot, no grupo: testando...\n\nprefixo: #\n\n"
+        ]
+    },
+    {
+        "msg": "#simih2 0",
+        "messages": [
+            "já está desativado."
+        ]
+    },
+    {
+        "msg": "#simih 0",
+        "messages": [
+            "já está desativado."
+        ]
+    },
+    {
+        "msg": "#antipv 1",
+        "messages": [
+            "o anti privado foi ativado com sucesso. caso alguém envie mensagem para o bot, será bloqueado!"
+        ]
+    },
+    {
+        "msg": "credo",
+        "messages": [
+            "o",
+            "ac"
+        ]
+    },
+    {
+        "msg": "olan",
+        "messages": []
+    },
+    {
+        "msg": "o meu é rápido, não cai",
+        "messages": [
+            "quantos gps teu tá?"
+        ]
+    },
+    {
+        "msg": "quantos gps teu tá?",
+        "messages": [
+            "gps? ping?",
+            "4"
+        ]
+    },
+    {
+        "msg": "tu usa oq? termux?",
+        "messages": [
+            "eu disse bronxys"
+        ]
+    },
+    {
+        "msg": "kkkk",
+        "messages": []
+    },
+    {
+        "msg": "a",
+        "messages": []
+    },
+    {
+        "msg": "gps? ping?",
+        "messages": [
+            "grupos"
+        ]
+    },
+    {
+        "msg": "déficit de antenção",
+        "messages": []
+    },
+    {
+        "msg": "grupos",
+        "messages": [
+            "klh, sou lerdo dms"
+        ]
+    },
+    {
+        "msg": "tem várias",
+        "messages": [
+            "várias quais"
+        ]
+    },
+    {
+        "msg": "ela tá mandando imagem cinza em algumas",
+        "messages": []
+    },
+    {
+        "msg": "várias quais",
+        "messages": [
+            "n lembro o nome, mas a maioria, se quiser mando pv"
+        ]
+    },
+    {
+        "msg": "ok",
+        "messages": []
+    },
+    {
+        "msg": "#gelo oi",
+        "messages": [
+            "em 365 dias úteis termino o comando kkkk meme, to enviando!"
+        ]
+    },
+    {
+        "msg": "ou é 4h e 4h",
+        "messages": []
+    },
+    {
+        "msg": "meu bot tá em 60",
+        "messages": []
+    },
+    {
+        "msg": "#break oi",
+        "messages": [
+            "em 365 dias úteis termino o comando kkkk meme, to enviando!"
+        ]
+    },
+    {
+        "msg": "#addcmdprem plau",
+        "messages": [
+            "o comando plau foi adicionado na lista de comandos premium."
+        ]
+    },
+    {
+        "msg": "tentem usar o play",
+        "messages": []
+    },
+    {
+        "msg": "/play afroman",
+        "messages": []
+    },
+    {
+        "msg": "o meu play não tá funcionando ainda",
+        "messages": [
+            "vc colocou sua key?"
+        ]
+    },
+    {
+        "msg": "kk",
+        "messages": []
+    },
+    {
+        "msg": "como fala msm ? esqueci",
+        "messages": []
+    },
+    {
+        "msg": "oi simih",
+        "messages": []
+    },
+    {
+        "msg": ".bangp 1",
+        "messages": []
+    },
+    {
+        "msg": ".autorepo 0",
+        "messages": []
+    },
+    {
+        "msg": "eu sou gay para caralho",
+        "messages": [
+            "akkaakkakakakkaka"
+        ]
+    },
+    {
+        "msg": "ola sua linda",
+        "messages": [
+            "ixi"
+        ]
+    },
+    {
+        "msg": "o lucas tira essas figurinha mn",
+        "messages": []
+    },
+    {
+        "msg": "tá engraçadinho hoje em",
+        "messages": []
+    },
+    {
+        "msg": "mas iae simih tudo bem?",
+        "messages": []
+    },
+    {
+        "msg": "tudo eu sou gay",
+        "messages": [
+            "ah o lucas tabem é?"
+        ]
+    },
+    {
+        "msg": "um gay encubado",
+        "messages": [
+            "akakkaakakakakakakakakakalkakakakkakakakaka"
+        ]
+    },
+    {
+        "msg": "perdi meu vô ontem simih",
+        "messages": []
+    },
+    {
+        "msg": "estou de luto",
+        "messages": []
+    },
+    {
+        "msg": "pq",
+        "messages": [
+            "meu vô morreu porra"
+        ]
+    },
+    {
+        "msg": "simih me arrume a eduarda",
+        "messages": []
+    },
+    {
+        "msg": "simih",
+        "messages": []
+    },
+    {
+        "msg": "me mata",
+        "messages": []
+    },
+    {
+        "msg": "me come",
+        "messages": []
+    },
+    {
+        "msg": "seu gostoso",
+        "messages": []
+    },
+    {
+        "msg": "your cat",
+        "messages": []
+    },
+    {
+        "msg": "i would knead you on a dick",
+        "messages": []
+    },
+    {
+        "msg": "vixiiiii",
+        "messages": []
+    },
+    {
+        "msg": "cadê o lucas?",
+        "messages": []
+    },
+    {
+        "msg": "oxente! tá no rio te traindo!",
+        "messages": [
+            "e a eduarda"
+        ]
+    },
+    {
+        "msg": "?",
+        "messages": []
+    },
+    {
+        "msg": "como se matar do jeito mas fácil?",
+        "messages": []
+    },
+    {
+        "msg": "oq significa o mundo?",
+        "messages": []
+    },
+    {
+        "msg": "oq e porno",
+        "messages": [
+            "não sei"
+        ]
+    },
+    {
+        "msg": "oq é igreja",
+        "messages": []
+    },
+    {
+        "msg": "oq é vc?",
+        "messages": []
+    },
+    {
+        "msg": "oq eu sou",
+        "messages": []
+    },
+    {
+        "msg": "oq nois está fazendo aqu",
+        "messages": []
+    },
+    {
+        "msg": "desculpa, falei sem pensar",
+        "messages": [
+            "me perdoe"
+        ]
+    },
+    {
+        "msg": "eu quero mudar",
+        "messages": []
+    },
+    {
+        "msg": "te cume",
+        "messages": [
+            "simih"
+        ]
+    },
+    {
+        "msg": "chegaaaaaaa",
+        "messages": []
+    },
+    {
+        "msg": "seu bot",
+        "messages": []
+    },
+    {
+        "msg": "para de ser assim",
+        "messages": []
+    },
+    {
+        "msg": "seu robô",
+        "messages": []
+    },
+    {
+        "msg": "falei sem pensar me desculpe",
+        "messages": []
+    },
+    {
+        "msg": "então vamos tira a calcinha",
+        "messages": [
+            "calma aí"
+        ]
+    },
+    {
+        "msg": "simih oq significa o mundo?",
+        "messages": []
+    },
+    {
+        "msg": "oq significa o mundoooooooooooo",
+        "messages": []
+    },
+    {
+        "msg": "ah esquece",
+        "messages": []
+    },
+    {
+        "msg": "atah",
+        "messages": [
+            "para de me imitar"
+        ]
+    },
+    {
+        "msg": "tchau\npara de me imitar",
+        "messages": [
+            "eu sou gay"
+        ]
+    },
+    {
+        "msg": "nao nunca meu rei",
+        "messages": [
+            "ah"
+        ]
+    },
+    {
+        "msg": "kakakakakakkakakakka",
+        "messages": []
+    },
+    {
+        "msg": "boa noite simih",
+        "messages": []
+    },
+    {
+        "msg": "vou dar uma pensada aqui",
+        "messages": []
+    },
+    {
+        "msg": "voltei",
+        "messages": []
+    },
+    {
+        "msg": "estou disposto a mudar",
+        "messages": []
+    },
+    {
+        "msg": "ah",
+        "messages": []
+    },
+    {
+        "msg": "pode desligar ai",
+        "messages": []
+    },
+    {
+        "msg": "queria só passar um pouco do tempo",
+        "messages": []
+    },
+    {
+        "msg": "aah cala boca seu robô",
+        "messages": []
+    },
+    {
+        "msg": "seu merda",
+        "messages": []
+    },
+    {
+        "msg": "seu lixo",
+        "messages": []
+    },
+    {
+        "msg": "clbc",
+        "messages": []
+    },
+    {
+        "msg": "imprestável",
+        "messages": []
+    },
+    {
+        "msg": "imprestável é você fdp",
+        "messages": [
+            "é vdd,não sirvo pra nada"
+        ]
+    },
+    {
+        "msg": "vem calar",
+        "messages": [
+            "pra q?"
+        ]
+    },
+    {
+        "msg": "você é um escroto",
+        "messages": [
+            "sim"
+        ]
+    },
+    {
+        "msg": "me desculpa",
+        "messages": []
+    },
+    {
+        "msg": "boa noites",
+        "messages": []
+    }
+]

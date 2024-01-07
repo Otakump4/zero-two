@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Mugiwaras Oficial 麦わら",
+    "groupId": "120363025631491219@g.us",
+    "x9": false,
+    "antiimg": false,
+    "antivideo": false,
+    "antiaudio": false,
+    "antisticker": false,
+    "antidoc": false,
+    "antictt": false,
+    "antiloc": false,
+    "antilinkgp": false,
+    "antilinkhard": false,
+    "antifake": false,
+    "antiporn": false,
+    "Odelete": false,
+    "antispam": false,
+    "antinotas": false,
+    "anticatalogo": false,
+    "visuUnica": false,
+    "registrarFIGUS": false,
+    "soadm": false,
+    "listanegra": [],
+    "advertir": [],
+    "prefixos": [
+      "#"
+    ],
+    "advertir2": [],
+    "legenda_estrangeiro": "0",
+    "legenda_documento": "0",
+    "legenda_video": "0",
+    "legenda_imagem": "0",
+    "multiprefix": false,
+    "forca_ofc": [
+      {
+        "acertos": 0,
+        "erros": 0,
+        "palavra": [],
+        "escreveu": [],
+        "palavra_ofc": 0,
+        "dica": 0,
+        "tema": 0
+      }
+    ],
+    "ausentes": [],
+    "antipalavrao": {
+      "active": false,
+      "palavras": []
+    },
+    "limitec": {
+      "active": false,
+      "quantidade": null
+    },
+    "wellcome": [
+      {
+        "bemvindo1": true,
+        "legendabv": "🏴‍☠️ *Seja muito bem vindo(a). Por favor leia as regras do grupo.* 🏴‍☠️\n\n🤠 Já chega se apresentando:\nfoto, Idade, cidade, anime favorito e seu personagem favorito!! (opcional)\n\n📚 *Nosso Site de Mangás:*\nhttps://mugiwarasoficial.com/\n\n📌 *Siga a gente no instagram:*\nhttps://www.instagram.com/opmugioficial/\n\n👑 *Coleciona Mangas ou Actions? Compre qualquer produto pelo nossos links e nos ajude a manter nosso site Online!*\n\n📖 *Mangas*: https://amzn.to/46EWEIQ\n\n🔥 *Action Figure*: https://shope.ee/3fcVtBQvM9\n\n🤝 Caso queira ser padrinho de nosso site faz um pix de qualquer valor para Mugiwaras: Chave: 16 99184 7412\n\n#numerodele#",
+        "legendasaiu": "*Se cuida e boa sorte!* Todos que sair do grupo, entra para lista negra, caso um dia volte o bot da ban automaticamente!*"
+      },
+      {
+        "bemvindo2": false,
+        "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
+        "legendasaiu": "#numerodele# – Saiu do grupo: #nomedogp#"
+      }
+    ],
+    "simi1": false,
+    "simi2": false,
+    "autosticker": false,
+    "autoresposta": true,
+    "jogos": true,
+    "level": false,
+    "bangp": false,
+    "nsfw": false,
+    "aluguel": false
+  }
+]

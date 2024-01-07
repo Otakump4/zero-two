@@ -1,0 +1,2 @@
+• Onde ficará todos os caches, automaticamente será excluído quando finalizar a execução do comando ou da função. 
+☆ Exemplo: Usou o comando .shazam, ele vai armazenar o trecho da música aqui e quando retornar o resultado com êxito ou falha, o áudio será deletado daqui.

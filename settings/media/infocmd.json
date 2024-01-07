@@ -1,0 +1,26 @@
+[
+  {
+    "command": "antiimg",
+    "info": "Este comando serve para restrigir/banir os participantes que enviar imagens no grupo, lembrando que este comando deve ser ativado para começar à executar sua função, ou seja, veja o exemplo abaixo:\n\nPara ativar a proteção ao seu grupo use [ #prefixo#antiimg 1 ], ou seja, para desativar é só inverter o número invés do 1 você irá colocar 0."
+  },
+  {
+    "command": "antivideo",
+    "info": "Este comando serve para restrigir/banir os participantes que enviar vídeos no grupo, lembrando que este comando deve ser ativado para começar à executar sua função, ou seja, veja o exemplo abaixo:\n\nPara ativar a proteção ao seu grupo use [ #prefixo#antivideo 1 ], ou seja, para desativar é só inverter o número invés do 1 você irá colocar 0."
+  },
+  {
+    "command": "antiaudio",
+    "info": "Este comando serve para restrigir/banir os participantes que enviar áudios no grupo, lembrando que este comando deve ser ativado para começar à executar sua função, ou seja, veja o exemplo abaixo:\n\nPara ativar a proteção ao seu grupo use [ #prefixo#antiaudio 1 ], ou seja, para desativar é só inverter o número invés do 1 você irá colocar 0."
+  },
+  {
+    "command": "antiloc",
+    "info": "Este comando serve para restrigir/banir os participantes que enviar localização no grupo, lembrando que este comando deve ser ativado para começar à executar sua função, ou seja, veja o exemplo abaixo:\n\nPara ativar a proteção ao seu grupo use [ #prefixo#antiloc 1 ], ou seja, para desativar é só inverter o número invés do 1 você irá colocar 0."
+  },
+  {
+    "command": "anticontato",
+    "info": "Este comando serve para restrigir/banir os participantes que enviar contatos no grupo, lembrando que este comando deve ser ativado para começar à executar sua função, ou seja, veja o exemplo abaixo:\n\nPara ativar a proteção ao seu grupo use [ #prefixo#anticontato 1 ], ou seja, para desativar é só inverter o número invés do 1 você irá colocar 0."
+  },
+  {
+    "command": "antidoc",
+    "info": "Este comando serve para restrigir/banir os participantes que enviar documentos no grupo, lembrando que este comando deve ser ativado para começar à executar sua função, ou seja, veja o exemplo abaixo:\n\nPara ativar a proteção ao seu grupo use [ #prefixo#antidoc 1 ], ou seja, para desativar é só inverter o número invés do 1 você irá colocar 0."
+  }
+]
