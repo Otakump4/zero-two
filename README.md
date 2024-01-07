@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=836FFF&center=falso&vCenter=falso&lines=𝒁𝑬𝑹𝑶-𝑻𝑾𝑶-𝐁𝐎𝐓+𝐕8✓;𝐁𝐎𝐓+𝐌𝐔𝐋𝐓𝐈+𝐃𝐄𝐕𝐈𝐂𝐄;1000+𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒+2024;𝐋𝐔𝐂𝐀𝐒-𝐌𝐎𝐃-𝐃𝐎𝐌𝐈𝐍𝐀✰✰✰✰✰">      
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=836FFF&center=falso&vCenter=falso&lines=𝒁𝑬𝑹𝑶-𝑻𝑾𝑶-𝐁𝐎𝐓+𝐕8✓;𝐁𝐎𝐓+𝐌𝐔𝐋𝐓𝐈+𝐃𝐄𝐕𝐈𝐂𝐄;5000+𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒+2024;𝐋𝐔𝐂𝐀𝐒-𝐌𝐎𝐃-𝐃𝐎𝐌𝐈𝐍𝐀✰✰✰✰✰">      
 
 <h1 align="center">
 <p>
@@ -67,12 +67,15 @@ termux-setup-storage
 ```
 **13° Comando**
 ```
+git clone https://github.com/Otakump4/zero-two.git
+```
+**14° Comando**
+```
 cd /sdcard/ZERO-TWO-V8
 ```
 **OPS:**
 toda vez que aparecer [ y/n ] vc digita y e da enter
-```
-```
+
 ## 🦄•INICIAR A BOT•🦄 <img src="https://user-images.githubusercontent.com/108157095/182053901-78e4a217-51ba-42a3-8ec5-38ed978ad752.png" height="25px">
 ```
        npm start
