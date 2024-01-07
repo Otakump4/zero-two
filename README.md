@@ -1,8 +1,8 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=836FFF&center=falso&vCenter=falso&lines=𝐈𝐍𝐀𝐓𝐒𝐔𝐊𝐈-𝐁𝐎𝐓+𝐕8✓;𝐁𝐎𝐓+𝐌𝐔𝐋𝐓𝐈+𝐃𝐄𝐕𝐈𝐂𝐄;1000+𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒+2024;𝐋𝐔𝐂𝐀𝐒-𝐌𝐎𝐃-𝐃𝐎𝐌𝐈𝐍𝐀✰✰✰✰✰">      
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=836FFF&center=falso&vCenter=falso&lines=𝒁𝑬𝑹𝑶-𝑻𝑾𝑶-𝐁𝐎𝐓+𝐕8✓;𝐁𝐎𝐓+𝐌𝐔𝐋𝐓𝐈+𝐃𝐄𝐕𝐈𝐂𝐄;1000+𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒+2024;𝐋𝐔𝐂𝐀𝐒-𝐌𝐎𝐃-𝐃𝐎𝐌𝐈𝐍𝐀✰✰✰✰✰">      
 
 <h1 align="center">
 <p>
-<img src= "https://telegra.ph/file/21a5ffd78e508949af736.jpg" alt="INATSUKI✓" width="720">
+<img src= "https://telegra.ph/file/fcc43d7ecee92a01aa168.jpg" alt="ZERO TWO✓" width="720">
 </p>
 
 <p align="center">
@@ -67,7 +67,7 @@ termux-setup-storage
 ```
 **13° Comando**
 ```
-cd /sdcard/yoshinobot
+cd /sdcard/ZERO-TWO-V8
 ```
 **OPS:**
 toda vez que aparecer [ y/n ] vc digita y e da enter
